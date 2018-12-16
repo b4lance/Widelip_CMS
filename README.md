@@ -1,1 +1,1 @@
-Widelip CMS Laravel 5.6 and Vue.js
+Widelip CMS Laravel 5.7
